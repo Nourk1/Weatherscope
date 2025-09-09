@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Weatherscope/static/css/main.e6c13ad2.css",
+    "main.js": "/Weatherscope/static/js/main.fdbe7847.js",
+    "static/js/453.3f17aac0.chunk.js": "/Weatherscope/static/js/453.3f17aac0.chunk.js",
+    "index.html": "/Weatherscope/index.html",
+    "main.e6c13ad2.css.map": "/Weatherscope/static/css/main.e6c13ad2.css.map",
+    "main.fdbe7847.js.map": "/Weatherscope/static/js/main.fdbe7847.js.map",
+    "453.3f17aac0.chunk.js.map": "/Weatherscope/static/js/453.3f17aac0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fdbe7847.js"
+  ]
+}
